@@ -1,0 +1,19 @@
+{
+    "name": "nord",
+    "version": "0.1.0",
+    "description": "CoAP Resource Directory",
+    "main": "horst.js",
+    "repository": "",
+    "author": "Hauke Petersen <hauke.petersen@fu-berlin.de",
+    "license": "GPL-2.0",
+    "readmeFilename": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:haukepetersen/nord.git"
+    },
+    "dependencies": {
+        "coap": "*",
+        "url": "*",
+        "query-string": "*"
+    }
+}
